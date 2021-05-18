@@ -1,6 +1,7 @@
 # zipper-utitlite
 
-- - - - INSTALL - - - - -
+
+```- - - - INSTALL - - - - -
 First of all you have to install all the requirements:
 If you use Linux or Mac:
     pip3 install -r requirements.txt
@@ -14,3 +15,4 @@ In Linux: python3
 First run: python(3) zipper.py --help
 
 Or just run: python(3) zipper.py
+```
